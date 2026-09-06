@@ -1,7 +1,0 @@
-out/
-out/test/
-*.class
-*.log
-target/
-.idea/
-.DS_Store
